@@ -1,5 +1,5 @@
 <title>Vintage Wear Store Dashboard<title>
-<br>Overview
+<br>Overview<br>
 <p>Welcome to the Vintage Wear Store Dashboard project! This endeavor has been a remarkable journey into the realm of data analytics, providing a hands-on experience in data cleaning, processing, analysis, and dashboard creation—all within the familiar confines of Microsoft Excel.<p>
 <br>Learning Objectives
 <br>1. Data Cleaning
